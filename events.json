@@ -1,0 +1,102 @@
+{
+  "blockNumber": 42939976,
+  "proposalsCreated": [
+    {
+      "proposalId": "0",
+      "deadline": "1622505600",
+      "minimumVotes": "100",
+      "proposedDonationAmount": "100000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    },
+    {
+      "proposalId": "1",
+      "deadline": "1622505600",
+      "minimumVotes": "100",
+      "proposedDonationAmount": "100000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    },
+    {
+      "proposalId": "2",
+      "deadline": "1622505600",
+      "minimumVotes": "100",
+      "proposedDonationAmount": "100000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    },
+    {
+      "proposalId": "3",
+      "deadline": "1701038048",
+      "minimumVotes": "100",
+      "proposedDonationAmount": "100000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    },
+    {
+      "proposalId": "4",
+      "deadline": "1701038048",
+      "minimumVotes": "100",
+      "proposedDonationAmount": "100000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    },
+    {
+      "proposalId": "5",
+      "deadline": "1701050048",
+      "minimumVotes": "100",
+      "proposedDonationAmount": "100000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    },
+    {
+      "proposalId": "6",
+      "deadline": "1701080048",
+      "minimumVotes": "100",
+      "proposedDonationAmount": "100000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    },
+    {
+      "proposalId": "7",
+      "deadline": "1701280048",
+      "minimumVotes": "100",
+      "proposedDonationAmount": "100000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    },
+    {
+      "proposalId": "8",
+      "deadline": "1701280048",
+      "minimumVotes": "100",
+      "proposedDonationAmount": "100000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    },
+    {
+      "proposalId": "9",
+      "deadline": "1701127907",
+      "minimumVotes": "1",
+      "proposedDonationAmount": "10000000000000000000",
+      "recipient": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"
+    }
+  ],
+  "proposalsExecuted": [
+    {
+      "proposalId": "9"
+    }
+  ],
+  "proposalsVoted": [
+    {
+      "proposalId": "7",
+      "voter": "0x42261b574358b4EE8ad3D43FB416B4D82D61CD93",
+      "inSupport": "true"
+    },
+    {
+      "proposalId": "9",
+      "voter": "0x42261b574358b4EE8ad3D43FB416B4D82D61CD93",
+      "inSupport": "true"
+    },
+    {
+      "proposalId": "7",
+      "voter": "0x0A70beF8c6993E61391FCdd1fE3a6fD7bcfCa008",
+      "inSupport": "true"
+    },
+    {
+      "proposalId": "8",
+      "voter": "0x0A70beF8c6993E61391FCdd1fE3a6fD7bcfCa008",
+      "inSupport": "true"
+    }
+  ]
+}
