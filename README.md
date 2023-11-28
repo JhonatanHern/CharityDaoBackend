@@ -1,4 +1,4 @@
-# Voting system backend
+# Charity DAO backend
 
 This server monitors the blockchain to get events from the CharityDao smart contract and serves them in a http endpoint
 
